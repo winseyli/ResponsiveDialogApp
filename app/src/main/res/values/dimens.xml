@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- dun know -->
+    <dimen name="elevation_default">30dp</dimen>
+
+    <item name="match_parent" type="dimen">-1</item>
+    <item name="wrap_content" type="dimen">-2</item>
+
+    <dimen name="auto_size_dialog_toolbar_elevation">@dimen/elevation_default</dimen>
+    <dimen name="auto_size_dialog_width">@dimen/match_parent</dimen>
+    <dimen name="auto_size_dialog_min_width">0dp</dimen>
+    <dimen name="auto_size_dialog_min_height">0dp</dimen>
+    <dimen name="auto_size_dialog_bottom_bar_layout_height">64dp</dimen>
+</resources>
